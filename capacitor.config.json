@@ -1,0 +1,9 @@
+{
+  "appId": "sn.odgam.zone5r.bignona",
+  "appName": "La ZONE 5/R de l'ODGAM de Bignona",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
